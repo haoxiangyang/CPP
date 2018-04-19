@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\xhao%40TestCPP\TestDll\myDll.h">
+    <ClInclude Include="myDll.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\xhao%40TestCPP\TestDll\myDll.c">
+    <ClCompile Include="myDll.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

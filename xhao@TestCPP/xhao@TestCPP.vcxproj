@@ -112,10 +112,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\xhao%40TestCPP\xhao%40TestCPP\main.cpp" />
+    <ClCompile Include="..\xhao%40TestCPP\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\xhao%40TestCPP\xhao%40TestCPP\base.h" />
+    <ClInclude Include="..\xhao%40TestCPP\base.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -115,10 +115,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\xhao%40TestCPP\TestDll\myDll.h" />
+    <ClInclude Include="myDll.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\xhao%40TestCPP\TestDll\myDll.c" />
+    <ClCompile Include="myDll.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
