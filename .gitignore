@@ -7,3 +7,5 @@
 /TestDll/x64/Debug
 /xhao@TestCPP/Debug
 /xhao@TestCPP/xhao@TestCPP.vcxproj.user
+/Debug
+*.user

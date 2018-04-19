@@ -1,7 +1,7 @@
 
 #include "base.h"
 
-void* fun(int (*p)[4]) {
+void fun(int (*p)[4]) {
 	;
 }
 
