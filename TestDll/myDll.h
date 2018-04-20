@@ -1,3 +1,19 @@
-#pragma once
+#ifndef TEST_DLL
+#define TEST_DLL
 
-__declspec(dllexport) int mySum(int a, int b);
+
+#ifdef DLL_EXPORT
+#	define DLL_INSTANCE __declspec(dllexport)
+#else
+#	define DLL_INSTANCE __declspec(dllimport)
+#endif // DLL_INSTANCE
+
+
+
+DLL_INSTANCE int mySum(int a, int b);
+
+
+
+#endif // !TEST_DLL
+
+

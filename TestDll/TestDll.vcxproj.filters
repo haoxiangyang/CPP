@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="myDll.c">
+    <ClCompile Include="myDll.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
