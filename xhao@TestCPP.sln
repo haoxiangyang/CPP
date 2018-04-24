@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestDiffStructAndClass", "T
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestPolymorphic", "TestPolymorphic\TestPolymorphic.vcxproj", "{4E22ADAD-537D-4509-A497-A4669138D67E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestStream", "TestStream\TestStream.vcxproj", "{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -65,6 +67,14 @@ Global
 		{4E22ADAD-537D-4509-A497-A4669138D67E}.Release|x64.Build.0 = Release|x64
 		{4E22ADAD-537D-4509-A497-A4669138D67E}.Release|x86.ActiveCfg = Release|Win32
 		{4E22ADAD-537D-4509-A497-A4669138D67E}.Release|x86.Build.0 = Release|Win32
+		{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}.Debug|x64.ActiveCfg = Debug|x64
+		{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}.Debug|x64.Build.0 = Debug|x64
+		{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}.Debug|x86.Build.0 = Debug|Win32
+		{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}.Release|x64.ActiveCfg = Release|x64
+		{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}.Release|x64.Build.0 = Release|x64
+		{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}.Release|x86.ActiveCfg = Release|Win32
+		{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
