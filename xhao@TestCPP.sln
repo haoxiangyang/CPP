@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestPolymorphic", "TestPoly
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestStream", "TestStream\TestStream.vcxproj", "{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BiTree", "BiTree\BiTree.vcxproj", "{7C8FB1D3-D7D4-4112-BAA8-5FF9B5D400F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -75,6 +77,14 @@ Global
 		{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}.Release|x64.Build.0 = Release|x64
 		{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}.Release|x86.ActiveCfg = Release|Win32
 		{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}.Release|x86.Build.0 = Release|Win32
+		{7C8FB1D3-D7D4-4112-BAA8-5FF9B5D400F9}.Debug|x64.ActiveCfg = Debug|x64
+		{7C8FB1D3-D7D4-4112-BAA8-5FF9B5D400F9}.Debug|x64.Build.0 = Debug|x64
+		{7C8FB1D3-D7D4-4112-BAA8-5FF9B5D400F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C8FB1D3-D7D4-4112-BAA8-5FF9B5D400F9}.Debug|x86.Build.0 = Debug|Win32
+		{7C8FB1D3-D7D4-4112-BAA8-5FF9B5D400F9}.Release|x64.ActiveCfg = Release|x64
+		{7C8FB1D3-D7D4-4112-BAA8-5FF9B5D400F9}.Release|x64.Build.0 = Release|x64
+		{7C8FB1D3-D7D4-4112-BAA8-5FF9B5D400F9}.Release|x86.ActiveCfg = Release|Win32
+		{7C8FB1D3-D7D4-4112-BAA8-5FF9B5D400F9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
