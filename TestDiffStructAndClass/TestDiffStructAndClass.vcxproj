@@ -22,7 +22,8 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{9F759432-07B3-4C53-A23B-9868EF3C1D87}</ProjectGuid>
     <RootNamespace>TestDiffStructAndClass</RootNamespace>
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>
+    </WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -21,7 +21,8 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{3F1F032C-16ED-4359-B3E5-99EC92ABC62A}</ProjectGuid>
     <RootNamespace>TestDll</RootNamespace>
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>
+    </WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

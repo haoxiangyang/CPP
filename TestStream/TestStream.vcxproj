@@ -22,7 +22,8 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{07F74539-C9F9-48DA-8CB7-4B884F67C1E4}</ProjectGuid>
     <RootNamespace>TestStream</RootNamespace>
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>
+    </WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
