@@ -106,7 +106,7 @@ int main()
 
 	cout << square<std::string>("44") << endl;
 
-	nPrint<string, 4>("test");
+	nPrint<string, 4>("test"); 
 
 	multPrint<>("test");
 

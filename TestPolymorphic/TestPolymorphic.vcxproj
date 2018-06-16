@@ -23,7 +23,8 @@
     <ProjectGuid>{4E22ADAD-537D-4509-A497-A4669138D67E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>TestPolymorphic</RootNamespace>
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>
+    </WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
